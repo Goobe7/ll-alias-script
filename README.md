@@ -22,13 +22,13 @@ This script is open source, but always check the code before executing:
 
 ```bash
 # Download, review, then execute
-curl -fsSL https://raw.githubusercontent.com/your-username/ll-alias/main/setup-ll-alias.sh > setup-ll-alias.sh
+curl -fsSL https://github.com/Goobe7/ll-alias-script/blob/main/setup-ll-alias.sh > setup-ll-alias.sh
 nano setup-ll-alias.sh  # Review the script content
 sudo bash setup-ll-alias.sh
 ```
 
 ```bash
-wget https://raw.githubusercontent.com/your-username/ll-alias/main/setup-ll-alias.sh
+wget https://github.com/Goobe7/ll-alias-script/blob/main/setup-ll-alias.sh
 chmod +x setup-ll-alias.sh
 sudo ./setup-ll-alias.sh
 ```
@@ -36,10 +36,10 @@ sudo ./setup-ll-alias.sh
 
 ```bash
 # One-line execution
-curl -fsSL https://raw.githubusercontent.com/your-username/ll-alias/main/setup-ll-alias.sh | sudo bash
+curl -fsSL https://github.com/Goobe7/ll-alias-script/blob/main/setup-ll-alias.sh | sudo bash
 ```
 
 ```bash
 # One-line execution
-wget -qO- https://raw.githubusercontent.com/your-username/ll-alias/main/setup-ll-alias.sh | sudo bash
+wget -qO- https://github.com/Goobe7/ll-alias-script/blob/main/setup-ll-alias.sh | sudo bash
 ```
